@@ -12,6 +12,9 @@ A **Python script** will be added to assist in designing cycloidal drives. This 
 **Adjust** parameters dynamically  
 **Export** designs to **DXF** for further use  
 
+However, since I don’t have time to implement it right away, I recommend using [GearSolver](https://github.com/dsuarezv/GearSolver/tree/master) in the meantime. GearSolver provides an interactive cycloidal gear calculator with graphical visualization and DXF export capabilities.
+
+That being said, I will develop my own version in the near future, making visualization even easier with added features for better usability and enhanced graphical output.
 This will be a **port of an existing script** with added features for **better graphical display** and **ease of use**. **Stay tuned!**
 
 ## 🔧 Upcoming Updates
